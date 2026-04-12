@@ -32,13 +32,19 @@
 
 ## Pricing
 
-| Feature | Free Trial | Pro |
-|---------|-----------|-----|
-| Calls per month | 5 | Unlimited |
-| Recurring reminders | Yes | Yes |
+| Feature | Free Trial | Pro ($9.99/mo) |
+|---------|-----------|----------------|
+| Duration | 7 days | Unlimited |
+| Call credits | $2 included | $9.99/mo included |
+| Reminders | Unlimited | Unlimited |
+| Recurring schedules | Yes | Yes |
 | AI memory | Yes | Yes |
-| Google Calendar | Yes | Yes |
+| Google Calendar sync | Yes | Yes |
+| Multiple phone numbers | Yes | Yes |
+| Call transcripts | Yes | Yes |
 | Priority support | — | Yes |
+
+Per-minute call rates vary by country (~$0.02-$0.10/min). Top-up balance available anytime.
 
 ## Links
 
