@@ -1,7 +1,7 @@
 # Zangy — Reminder App That Calls Your Phone
 
 [![Website](https://img.shields.io/badge/Website-zangy.io-yellow)](https://zangy.io)
-[![Users](https://img.shields.io/badge/Users-320%2B-brightgreen)](https://zangy.io)
+[![Users](https://img.shields.io/badge/Users-700%2B-brightgreen)](https://zangy.io)
 
 **Zangy** is an AI-powered phone reminder service that actually calls you. Instead of notifications you ignore, get a real phone call from an AI assistant that knows you.
 
@@ -17,7 +17,7 @@
 
 ## Stats
 
-- 320+ users
+- 700+ users
 - 114 reminders created
 - 84 calls completed
 - Available worldwide
